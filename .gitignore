@@ -3,3 +3,4 @@ excludesfile = ~/.gitignore_global
 .history
 .gitignore
 .contentFlavour
+.DS_Store
